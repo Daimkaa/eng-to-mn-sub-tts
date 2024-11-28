@@ -1,6 +1,6 @@
 # English to Mongolian Subtitle Translator & Text-to-Speech Converter
 
-This project leverages the **Gerege Text-to-Speech API** and provides two main functionalities:
+This project leverages the **Chimege Text-to-Speech API** and provides two main functionalities:
 1. **Translate English to Mongolian Subtitles**: Supports `.srt` files with timecodes and generates translated Mongolian `.srt` files.
 2. **Text-to-Speech (TTS)**: Converts text input (or subtitles) to realistic Mongolian audio.
 
@@ -21,14 +21,14 @@ This project leverages the **Gerege Text-to-Speech API** and provides two main f
 ## Technologies Used
 - **Programming Language**: Python
 - **APIs**:
-  - **Gerege TTS API** for speech synthesis.
+  - **Chimege TTS API** for speech synthesis.
   - Currently using Selenium Webdriver to translate texts using Google Translate
 
 ---
 
 ## Prerequisites
-1. **Gerege API Key**:  
-   Obtain your API key from [Gerege API](https://developer.gerege.mn).
+1. **Chimege API Key**:  
+   Obtain your API key from [Chimege API](https://console.chimege.com/login).
 
 **Example**
 
